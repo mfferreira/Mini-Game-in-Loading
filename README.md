@@ -6,6 +6,8 @@ The idea is to have mini-games in the loading view, so the wait is a little bit 
 Just a way to kill time while waiting for something in the app to complete.
 Idea based on the console games loading screen.
 
+![image](http://dl.dropbox.com/u/25088820/mini-game-in-loading-ti.png)
+
 
 ----------------------------------
 Stuff our legal folk make us say:
